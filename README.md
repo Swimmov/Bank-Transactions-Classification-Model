@@ -1,12 +1,9 @@
----
-
 # Bank Transactions Classification Model
 
 **Model Version**: 1.0
 **Author**: Dazmitry Kandrykinski
 **Date**: 2025-05-15
 
----
 
 ## Overview
 
